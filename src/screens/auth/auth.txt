@@ -1,0 +1,37 @@
+#auth api
+{
+    "status": "Success",
+    "msg": "Success",
+    "data": {
+        "id": 78,
+        "isadmin": false
+    }
+}
+{
+    "status": "Failed",
+    "msg": "Email not found!",
+    "errors": [
+        {
+            "message": "Email not found!"
+        }
+    ]
+}
+{
+    "status": "Failed",
+    "msg": "Password not correct",
+    "errors": [
+        {
+            "message": "Password not correct"
+        }
+    ]
+}
+{
+    "status": "Failed",
+    "msg": "Email not verified!",
+    "errors": [
+        {
+            "message": "Email not verified!",
+            "code": 100
+        }
+    ]
+}

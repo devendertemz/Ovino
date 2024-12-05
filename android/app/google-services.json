@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220029715455",
+    "project_id": "ovnio-f763f",
+    "storage_bucket": "ovnio-f763f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220029715455:android:3d8f1588d0eb96a3cc1dca",
+        "android_client_info": {
+          "package_name": "com.ovino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaauFDB0m85RnoaGsHMVmQEpnZ2rC8oU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
